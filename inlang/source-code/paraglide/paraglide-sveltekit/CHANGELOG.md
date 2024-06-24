@@ -1,5 +1,13 @@
 # @inlang/paraglide-sveltekit
 
+## 0.10.7
+
+### Patch Changes
+
+- @inlang/paraglide-js@1.10.1
+- @lix-js/client@2.2.1
+- @inlang/paraglide-vite@1.2.72
+
 ## 0.10.6
 
 ### Patch Changes
