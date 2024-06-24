@@ -1,5 +1,17 @@
 # inlang-vs-code-extension
 
+## 1.47.1
+
+### Patch Changes
+
+- Updated dependencies [e8d74b9]
+  - @lix-js/fs@2.2.0
+  - @inlang/sdk@0.36.3
+  - @lix-js/client@2.2.1
+  - @inlang/rpc@0.3.35
+  - @inlang/settings-component@1.0.30
+  - @inlang/telemetry@0.3.50
+
 ## 1.47.0
 
 ### Minor Changes
